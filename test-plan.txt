@@ -1,0 +1,9 @@
+Check submit button when leaving input field name in blank - OK
+Check whether the submitted name is displayed on page -OK
+Check if submit special characters are displayed on page - OK
+Check a huge name with many characters - OK
+Check if contact details belongs the correct customer - NOT OK - THE PAGE UNITED BRANDS IS RETURNING ERROR 
+Check if "small" is set to customer when size is less than or equal 100 - OK
+Check if "small" is set to customer when size is less than or equal 100 - OK
+Check if "small" is set to customer when size is less than or equal 100 - OK
+
